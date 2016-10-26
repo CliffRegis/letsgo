@@ -1,0 +1,21 @@
+{
+  "name": "letsgo",
+  "version": "1.0.0",
+  "description": "app using js and external api",
+  "main": "letsgo.js",
+  "dependencies": {
+    "mongodb": "^2.2.11",
+    "express": "latest",
+    "mongoose": "latest",
+    "node-restful": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Clifton Regis",
+  "license": "ISC"
+}
